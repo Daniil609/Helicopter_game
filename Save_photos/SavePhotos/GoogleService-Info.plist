@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>569905109886-jglm3kcg6i36d62240si6ejup2ceejln.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.569905109886-jglm3kcg6i36d62240si6ejup2ceejln</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAAcs0Uq-PE3eEMzipIrKOp7SqiW7rLewY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>569905109886</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ht3ForLesson16.SavePhotos</string>
+	<key>PROJECT_ID</key>
+	<string>photo-c8370</string>
+	<key>STORAGE_BUCKET</key>
+	<string>photo-c8370.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:569905109886:ios:cd31d732805b882260b12f</string>
+</dict>
+</plist>

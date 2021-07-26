@@ -1,0 +1,66 @@
+
+/* Class = "UILabel"; text = "Bird"; ObjectID = "2Pr-VV-E8i"; */
+"2Pr-VV-E8i.text" = "Птица";
+
+/* Class = "UIButton"; normalTitle = "Settings"; ObjectID = "5BA-98-e4m"; */
+"5BA-98-e4m.normalTitle" = "Настройки";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Act-bh-e5a"; */
+"Act-bh-e5a.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "EVR-9c-t5O"; */
+"EVR-9c-t5O.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Records"; ObjectID = "GBb-FW-t6I"; */
+"GBb-FW-t6I.normalTitle" = "Рекорды";
+
+/* Class = "UIButton"; normalTitle = "Model"; ObjectID = "Iam-AC-YHf"; */
+"Iam-AC-YHf.normalTitle" = "Модель";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "Op8-xV-dpx"; */
+"Op8-xV-dpx.text" = "5";
+
+/* Class = "UIButton"; normalTitle = "save"; ObjectID = "QQM-76-DAq"; */
+"QQM-76-DAq.normalTitle" = "save";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "WnX-dH-brF"; */
+"WnX-dH-brF.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "X4d-eU-q35"; */
+"X4d-eU-q35.text" = "1";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "Yuy-rg-lha"; */
+"Yuy-rg-lha.normalTitle" = "Назад";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "eFs-yK-Gq2"; */
+"eFs-yK-Gq2.normalTitle" = "Назад";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "eqV-UK-SFK"; */
+"eqV-UK-SFK.text" = "Label";
+
+/* Class = "UILabel"; text = "Pilot name"; ObjectID = "hUn-28-FCa"; */
+"hUn-28-FCa.text" = "Имя пилота";
+
+/* Class = "UIButton"; normalTitle = "Start game"; ObjectID = "hjc-7y-pfA"; */
+"hjc-7y-pfA.normalTitle" = "Начало игры";
+
+/* Class = "UIButton"; normalTitle = "Type"; ObjectID = "lz4-a9-gbR"; */
+"lz4-a9-gbR.normalTitle" = "Тип";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "qqk-Eu-zwW"; */
+"qqk-Eu-zwW.normalTitle" = "Назад";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "rYN-5o-lIZ"; */
+"rYN-5o-lIZ.text" = "Настройки";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "sL3-Wg-3Wv"; */
+"sL3-Wg-3Wv.text" = "5";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "sYZ-Km-uwH"; */
+"sYZ-Km-uwH.text" = "Label";
+
+/* Class = "UILabel"; text = "Speed of game"; ObjectID = "xBd-0C-vl2"; */
+"xBd-0C-vl2.text" = "Скорость игры";
+
+/* Class = "UILabel"; text = "Helicopter"; ObjectID = "zqs-Sh-eAi"; */
+"zqs-Sh-eAi.text" = "Вертолёт";
