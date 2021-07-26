@@ -1,0 +1,58 @@
+
+import UIKit
+
+struct ActionLabelViewViewModel {
+    let text:String
+    let actionTitle:String
+}
+
+protocol ActionLabelViewDelegete:AnyObject{
+    func actionLabelViewTapButton(_ actionView:ActionLabelView)
+}
+
+class ActionLabelView: UIView {
+
+    
+    weak var delegete:ActionLabelViewDelegete?
+    
+    private var label:UILabel = {
+        let label = UILabel()
+        label.textAlignment = .center
+        label.numberOfLines = 0
+        label.textColor = .secondaryLabel
+        return label
+    }()
+    
+    private var button:UIButton = {
+        let button = UIButton()
+        button.setTitleColor(.link, for: .normal)
+        return button
+    }()
+    
+    override init(frame: CGRect) {
+        super.init(frame: frame)
+        isHidden = true
+        addSubview(label)
+        addSubview(button)
+        button.addTarget(self, action: #selector(didTapButton), for: .touchUpInside)
+    }
+    
+    required init?(coder: NSCoder) {
+        fatalError()
+    }
+    
+    override func layoutSubviews() {
+        super.layoutSubviews()
+        button.frame = CGRect(x: 0, y: hight-40, width: width, height: 40)
+        label.frame = CGRect(x: 0, y: 0, width: width, height: hight-45)
+    }
+    
+    @objc func didTapButton(){
+        delegete?.actionLabelViewTapButton(self)
+    }
+    
+    func configure(with viewModel:ActionLabelViewViewModel)  {
+        label.text = viewModel.text
+        button.setTitle(viewModel.actionTitle, for: .normal)
+    }
+}
